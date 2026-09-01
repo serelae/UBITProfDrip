@@ -1,0 +1,23 @@
+{
+  "dripScore": 7.8,
+  "vibeCategory": "Vector Space Earth-Tone Pragmatism",
+  "verdict": "A mathematically sound earth-tone outfit engineered for maximum whiteboard presence and zero fashion variance.",
+  "detailedQuote": "Mr. Ayaz Ahmed proves that vector spaces aren't the only things with defined structure—his rich brown shirt and neutral khakis maintain complete stylistic equilibrium. Standing in his signature hands-behind-back pose, he effortlessly proves closure under addition while keeping his wardrobe strictly inside the comfort zone.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Mocha Long-Sleeve Button-Up",
+      "description": "A deep brown, neatly pressed shirt tailored for serious mathematical derivations."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Vector-Neutral Khaki Trousers",
+      "description": "Tailored beige trousers offering maximum flexibility for high-frequency blackboard writing."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Low-Key Lecture Hall Casuals",
+      "description": "Dark, comfortable walking shoes built to withstand long office hours and continuous vector proofs."
+    }
+  ]
+}
