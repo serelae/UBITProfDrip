@@ -1,0 +1,18 @@
+{
+  "dripScore": 5.2,
+  "vibeCategory": "Midterm Bureaucracy Chic",
+  "verdict": "A classic department head look tailored for denying prerequisite waivers with a wave of the hand.",
+  "detailedQuote": "The faded pastel button-down carries the weight of a hundred unanswered canvas messages. Equipped with a pocket full of red pens, he is fully prepared to dock points for incorrect margins.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Pale Pink Button-Down Shirt",
+      "description": "Light pink shirt tailored for lengthy lectures and strict attendance policies."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Pocket Pen Arsenal",
+      "description": "A curated set of ballpoints ready to mark down late submissions."
+    }
+  ]
+}
