@@ -1,0 +1,28 @@
+{
+  "dripScore": 3.8,
+  "vibeCategory": "I Grade on a Curve and Dress on a Budget",
+  "verdict": "A clinical case study in tenured exhaustion and zero sartorial remorse.",
+  "detailedQuote": "This professor is rocking the exact outfit energy of someone who replies 'please refer to syllabus' to every single urgent student email. The orthopedic sneakers scream 'I have a bad back', but the tucked-in button-down screams 'I will fail you for being one minute late'.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Whiteboard-Smudged Tenure-Track Shirt",
+      "description": "A button-down that has survived 400 wash cycles and still somehow smells like dry-erase markers and institutional despair."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Syllabus Compliance Trousers",
+      "description": "Wrinkled pleated khakis strictly preserved since their dissertation defense in 2012."
+    },
+    {
+      "tag": "SHOES",
+      "name": "3000-Step Lecture Hall Stompers",
+      "description": "Orthopedic grey sneakers engineered specifically for pacing back and forth while ignoring raised hands."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Department Keycard Lanyard of Doom",
+      "description": "Frayed 2018 hackathon lanyard weighed down by 14 mysterious master keys to locked lab closets."
+    }
+  ]
+}
