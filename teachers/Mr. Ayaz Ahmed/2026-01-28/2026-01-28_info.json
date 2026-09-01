@@ -1,0 +1,23 @@
+{
+  "dripScore": 5.4,
+  "vibeCategory": "Calculus Casual Chaos",
+  "verdict": "A classic blend of denim jeans and a dark suit jacket that screams partial professional effort.",
+  "detailedQuote": "Pairing a dark blazer with light jeans suggests high academic expectations with low outfit preparation. It gives off strong 'office hours cancelled unexpectedly' energy.",
+  "inventory": [
+    {
+      "tag": "OUTERWEAR",
+      "name": "Dark Navy Tailored Blazer of Partial Effort",
+      "description": "A single-breasted blazer worn to maintain an illusion of formal authority while doing calculus."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Faded Light-Wash Denim Jeans",
+      "description": "Casual denim that signals absolute tenure job security and minimal dress code compliance."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Silver Wire-Frame Rectangular Glasses",
+      "description": "Spectacles built to detect students using smartphones under their desks from thirty feet away."
+    }
+  ]
+}
