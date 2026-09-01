@@ -1,0 +1,28 @@
+{
+  "dripScore": 6.2,
+  "vibeCategory": "Tucked-In Business Chappal Chic",
+  "verdict": "A daring structural clash between upper-management button-down attire and extreme lower-body casual relaxedness.",
+  "detailedQuote": "Mr. Bari Ahmed delivers a masterclass in hybrid academic practicality with this ensemble. The crisp, ironed white button-up tucked tightly into dark trousers demands instant respect, while the choice of open-toed flip-flops proves that foot comfort reigns supreme over campus dress codes.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Starch-Crisp Formal Light Shirt",
+      "description": "Tightly tucked white button-up engineered for aerodynamic whiteboard scribbling and maximum professionalism."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Dark Navy Tailored Trousers",
+      "description": "Slim-fitting dark trousers maintaining high academic rigor and absolute color contrast."
+    },
+    {
+      "tag": "SHOES",
+      "name": "High-Ventilation Commuter Sandals",
+      "description": "Minimalist open-toe footwear providing maximum comfort during grueling back-to-back lectures."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Professor Precision Spectacles",
+      "description": "Sleek framed glasses tailored for spotting phone usage in the very back row."
+    }
+  ]
+}
