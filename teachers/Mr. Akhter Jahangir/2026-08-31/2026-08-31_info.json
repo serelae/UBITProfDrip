@@ -1,0 +1,28 @@
+{
+  "dripScore": 5.2,
+  "vibeCategory": "Mid-Quarter Magenta Midlife Tenure Crisis",
+  "verdict": "A bold magenta choice that shouts 'I ignored your regrade request before you even sent it'.",
+  "detailedQuote": "This vibrant shirt attempts to mask pure faculty meeting fatigue. The hair-perched sunglasses prove he's ready to sprint to his car the second lecture ends.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Magenta Long-Sleeve Button-Down of Lost Syllabus Hope",
+      "description": "Vibrant shade designed to draw attention away from failing test averages."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Navy Blue Dress Trousers of Standard Tenure",
+      "description": "Classic dark slacks built for surviving back-to-back departmental meetings."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Black Leather Belt of Budget Tightening",
+      "description": "Strictly functional hold for keeping the mid-semester silhouette together."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Black Hair-Resting Sunglasses of Quick Escape",
+      "description": "Perched high for an instant getaway the moment office hours close."
+    }
+  ]
+}
