@@ -1,28 +1,28 @@
 {
-  "dripScore": 6.2,
-  "vibeCategory": "Tucked-In Business Chappal Chic",
-  "verdict": "A daring structural clash between upper-management button-down attire and extreme lower-body casual relaxedness.",
-  "detailedQuote": "Mr. Bari Ahmed delivers a masterclass in hybrid academic practicality with this ensemble. The crisp, ironed white button-up tucked tightly into dark trousers demands instant respect, while the choice of open-toed flip-flops proves that foot comfort reigns supreme over campus dress codes.",
+  "dripScore": 6.8,
+  "vibeCategory": "Business-Casual Upper, Dorm-Room Lower",
+  "verdict": "A bold clash of crisp administrative presentation paired with an absolute refusal to wear real shoes.",
+  "detailedQuote": "Mr. Bari Ahmed presents a masterclass in hybrid academic efficiency, seamlessly balancing a crisp white button-up top with high-ventilation flip-flops. It is the ultimate sartorial choice for when you have a formal departmental meeting at 10 AM, but mentally you are already on summer vacation.",
   "inventory": [
     {
       "tag": "TOP",
-      "name": "Starch-Crisp Formal Light Shirt",
-      "description": "Tightly tucked white button-up engineered for aerodynamic whiteboard scribbling and maximum professionalism."
+      "name": "Starch-Crisp Light Grey Button-Down",
+      "description": "Impeccably tucked long-sleeve dress shirt engineered for maximum chalkboard maneuverability."
     },
     {
       "tag": "BOTTOM",
-      "name": "Dark Navy Tailored Trousers",
-      "description": "Slim-fitting dark trousers maintaining high academic rigor and absolute color contrast."
+      "name": "Mid-Rise Slate Navy Trousers",
+      "description": "Dark tailored trousers providing a sleek silhouette designed to withstand long hours of standing invigilation."
     },
     {
       "tag": "SHOES",
-      "name": "High-Ventilation Commuter Sandals",
-      "description": "Minimalist open-toe footwear providing maximum comfort during grueling back-to-back lectures."
+      "name": "High-Airflow Campus Sandals",
+      "description": "Unapologetically casual footwear offering maximum ventilation during high-pressure grading sessions."
     },
     {
       "tag": "ACCESSORY",
-      "name": "Professor Precision Spectacles",
-      "description": "Sleek framed glasses tailored for spotting phone usage in the very back row."
+      "name": "Precision Rectangular Spectacles",
+      "description": "Essential optical hardware built specifically for spotting typos in code at fifty paces."
     }
   ]
 }
