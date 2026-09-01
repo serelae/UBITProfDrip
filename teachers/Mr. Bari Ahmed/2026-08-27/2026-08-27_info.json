@@ -1,0 +1,28 @@
+{
+  "dripScore": 6.4,
+  "vibeCategory": "Linear Algebra Greyscale Chic",
+  "verdict": "An unshakeable academic look built for blackboard dominance.",
+  "detailedQuote": "Mr. Bari Ahmed delivers a masterclass in aerodynamic lecturing attire with zero-distraction wardrobe ergonomics.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Starch-Crisp Light Grey Button-Up",
+      "description": "Breathable crisp cotton shirt with chalk deflection."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Academic Chinos",
+      "description": "Tenured comfort trousers with deep pockets."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Hallway Gliders",
+      "description": "Quiet rubber soles for lab pacing."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Faculty Badge & Gear",
+      "description": "RFID card lanyard and faculty specs."
+    }
+  ]
+}
