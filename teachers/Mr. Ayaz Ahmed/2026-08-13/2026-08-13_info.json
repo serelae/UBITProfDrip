@@ -1,0 +1,23 @@
+{
+  "dripScore": 5.2,
+  "vibeCategory": "Tenured Vector-Space Casual",
+  "verdict": "A textbook outfit for someone who spends eighty percent of class deriving proofs and zero percent updating online grades.",
+  "detailedQuote": "The earth-tone palette suggests a man who optimized his wardrobe for minimum laundry effort. It delivers peak strict midterm grader energy with zero room for partial credit.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Chocolate Brown Button-Down of Linear Algebra Despair",
+      "description": "A dark brown shirt chosen primarily to conceal chalk dust and whiteboard marker accidents."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Beige Chinos of Zero Partial Credit",
+      "description": "Wrinkle-resistant trousers designed for long lectures and unannounced pop quizzes."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Dark Navy Comfort Sneakers of Swift Office Hour Exits",
+      "description": "Ergonomic shoes enabling quick retreats before students ask for extra credit."
+    }
+  ]
+}
