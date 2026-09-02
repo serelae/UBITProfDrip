@@ -1,0 +1,23 @@
+{
+  "dripScore": 4.2,
+  "vibeCategory": "Digital Logic Gatekeeper Chic",
+  "verdict": "Looks ready to fail half the class on Boolean algebra before noon.",
+  "detailedQuote": "This monochromatic grey kurta screams zero-effort logic gate energy. He definitely deducts ten percent for unaligned whiteboard schematics.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Light Grey Rolled-Sleeve Kurta",
+      "description": "Monochromatic grey top built to absorb whiteboard marker dust and midterm tears."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Matching Light Grey Shalwar Trousers",
+      "description": "Comfort-first bottoms designed for standing through three-hour consecutive lab lectures."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Black Wire-Rim Eyeglasses",
+      "description": "Precision eyewear strictly used for spotting arithmetic errors in student circuit diagrams."
+    }
+  ]
+}
