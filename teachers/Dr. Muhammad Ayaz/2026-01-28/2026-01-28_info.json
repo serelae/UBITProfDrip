@@ -1,0 +1,23 @@
+{
+  "dripScore": 5.2,
+  "vibeCategory": "Calculated Mid-Level Professionalism",
+  "verdict": "A sharp formal blazer paired with casual denim that signals moderate academic effort.",
+  "detailedQuote": "The formal jacket attempts to balance out the casual jeans during complex limit proofs. It reflects a standard, balanced approach to lecture hall style.",
+  "inventory": [
+    {
+      "tag": "OUTERWEAR",
+      "name": "Dark Navy Blazer of Partial Formalism",
+      "description": "A structured formal layer trying to maintain basic department standards."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Faded Blue Denim Jeans",
+      "description": "Casual washed denim suited for long calculus lectures."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Silver Rectangular Glasses",
+      "description": "Standard eyewear framed for precise whiteboard notation."
+    }
+  ]
+}
