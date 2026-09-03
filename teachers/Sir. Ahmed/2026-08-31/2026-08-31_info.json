@@ -1,0 +1,28 @@
+{
+  "dripScore": 2.2,
+  "vibeCategory": "0.1% Curve Denier Core",
+  "verdict": "Sir. Ahmed looks like he reads C++ syntax word-for-word from Wikipedia while strictly refusing to round up a 79.9% final grade.",
+  "detailedQuote": "He showed up in a wrinkled pale sage button-down and faded light jeans that haven't seen an iron since the department was founded. This entire outfit screams 'I lock the door 30 seconds after the bell rings and mark late submissions as zero.'",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Pale Sage Green Button-Down Shirt of Eternal Syllabus Neglect",
+      "description": "A faded, rumpled pale sage shirt with sloppily rolled sleeves, clearly styled for spending three hours ignoring hands raised during lecture."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Light Wash Blue Jeans of Zero Grading Mercy",
+      "description": "Uninspired light blue denim trousers that lack any silhouette or effort, perfect for sitting in a locked office during scheduled office hours."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Rectangular Eyeglasses of Unannounced Quiz Sadism",
+      "description": "Standard metal-frame specs worn specifically to lock eye contact with students right as he announces a closed-book pop quiz on material never taught."
+    },
+    {
+      "tag": "GEAR",
+      "name": "Silver Laptop of 100-Slide Monotone PowerPoint Torture",
+      "description": "A plain silver laptop used exclusively to project size-10 font code snippets from 2012 that don't compile."
+    }
+  ]
+}
