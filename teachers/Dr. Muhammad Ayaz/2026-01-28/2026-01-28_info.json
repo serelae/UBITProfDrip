@@ -1,0 +1,23 @@
+{
+  "dripScore": 2.2,
+  "vibeCategory": "L'Hôpital's Rule For Failed Fits",
+  "verdict": "Dr. Ayaz proves that while e to the power of negative infinity approaches zero, his fashion sense hit absolute zero long before taking this tenure.",
+  "detailedQuote": "Pairing a stiff corporate navy blazer with embroidered light-wash dad jeans is a bold cry for help from someone who refuses to round a 79.9% up to a B-. He clearly spends his three-hour lecture writing limits on the board while completely ignoring the five hands raised in total confusion.",
+  "inventory": [
+    {
+      "tag": "OUTERWEAR",
+      "name": "Dark Navy Blazer of Depressing Tenure Security",
+      "description": "An ill-fitting dark navy blazer worn solely to maintain the illusion of academic prestige while failing 70% of the sophomore class."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Faded Light Blue Pocket-Embroidered Dad Jeans",
+      "description": "Mid-2000s light-wash denim featuring aggressive back-pocket stitching that surrenders completely to any expectation of modern style."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Wire-Rimmed Partial-Credit Deductor Glasses",
+      "description": "Rectangular spectacles designed purely to squint at your step-by-step calculus work and find a missing negative sign from 15 paces away."
+    }
+  ]
+}
