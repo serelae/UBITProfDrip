@@ -1,0 +1,23 @@
+{
+  "dripScore": 2.1,
+  "vibeCategory": "Vector Space Sadism Core",
+  "verdict": "Dr. Muhammad Ayaz looks like he personally engineered linear algebra just to ensure 40% of the class fails their midterms.",
+  "detailedQuote": "The brown button-down and wrinkled beige trousers combination screams 'I haven't updated my lecture slides since 2011 and I refuse to round a 79.9% to an 80% out of pure spite.' Standing with his hands tucked behind his back while torturing students with subspace closures is a level of academic menace that not even a pair of orthopaedic sneakers can soften.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Brown Long-Sleeve Button-Up Shirt of Pure Despair",
+      "description": "A dismal, sludge-brown button-down shirt that looks like it was harvested directly from an unventilated department lounge in 1998."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Khaki Beige Chinos of Tenured Apathy",
+      "description": "Wrinkled beige trousers that have long given up on crisp tailoring, sagging with the emotional weight of 500 ungraded linear algebra finals."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Dark Navy Orthopedic Commuter Kicks",
+      "description": "Depressingly sensible dark low-top sneakers designed specifically for pacing back and forth in front of a smartboard while ignoring frantic raised hands."
+    }
+  ]
+}
