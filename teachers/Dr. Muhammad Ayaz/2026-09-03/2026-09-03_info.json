@@ -1,0 +1,28 @@
+{
+  "dripScore": 2.3,
+  "vibeCategory": "79.9% Final Grade Denier Core",
+  "verdict": "Dr. Ayaz pulled up dressed like he's ready to derive vector spaces for three hours straight before sprinting to his car to dodge office hours.",
+  "detailedQuote": "The crisp white button-down screams 'I read off 100 PowerPoint slides per lecture,' while those maroon Puma sneakers prove he's legally prepared to outrun any student begging for a grade curve. Pairing corporate mid-level management slacks with gym shoes is a crime even linear algebra cannot solve.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Off-White Wrinkled Button-Up Shirt of Bureaucratic Torment",
+      "description": "A pale, lifeless dress shirt stuffed into trousers so tight it looks like it's holding in ten years of unread student emails."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Navy Blue High-Waisted Trousers of No Grade Rounding",
+      "description": "Pleated formal pants cinched up to the ribcage to ensure zero motion, maximum discomfort, and absolute refusal to round up a 79.9%."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Maroon Puma Running Shoes for Office Hour Escape",
+      "description": "Casual maroon runners stuck onto a semi-formal outfit like an afterthought, specifically designed for fleeing campus the second the clock hits 5:00 PM."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Rectangular Wire-Rimmed Glasses of Glancing Judgement",
+      "description": "Standard-issue academic specs used exclusively to glare over the top when someone asks a question clearly answered on slide 42."
+    }
+  ]
+}
