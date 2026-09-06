@@ -34,5 +34,11 @@
     "subject": "Computer Networks & Operating Systems",
     "category": "Department Faculty",
     "respectLevel": "High"
+  },
+  {
+    "name": "Test Temporary Prof",
+    "subject": "Quantum Testing",
+    "category": "Visiting Faculty",
+    "respectLevel": "Mid"
   }
 ]
