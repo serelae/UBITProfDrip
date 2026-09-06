@@ -1,0 +1,18 @@
+{
+  "dripScore": 2.3,
+  "vibeCategory": "Depleted Uranium Formalwear",
+  "verdict": "This outfit possesses less aesthetic energy than absolute zero and looks like it was dredged out of a thrift store clearance bin in 1994.",
+  "detailedQuote": "Pairing a muddy taupe blazer with a barcode-patterned dress shirt is a physics anomaly of pure sartorial depression. He looks ready to fail an entire lecture hall on thermodynamics purely out of spite for modern tailoring.",
+  "inventory": [
+    {
+      "tag": "OUTERWEAR",
+      "name": "Muted Taupe Suit Blazer",
+      "description": "A shapeless, drab brown-grey jacket that looks like it has endured forty years of chalk dust with zero visits to a dry cleaner."
+    },
+    {
+      "tag": "TOP",
+      "name": "Grey Striped Button-Down Shirt",
+      "description": "A soul-crushing pinstripe shirt worn open-collar, radiating pure unbothered midterm-grading apathy."
+    }
+  ]
+}
