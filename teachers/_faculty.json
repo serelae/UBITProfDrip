@@ -10,5 +10,23 @@
     "subject": "Programming Fundamentals, OOP",
     "category": "Department Faculty",
     "respectLevel": "High"
+  },
+  {
+    "name": "Mr. Akhter Jahangir",
+    "subject": "Unknown",
+    "category": "Department Faculty",
+    "respectLevel": "Mid"
+  },
+  {
+    "name": "Mr. Bari Ahmed",
+    "subject": "Unknown",
+    "category": "Department Faculty",
+    "respectLevel": "Mid"
+  },
+  {
+    "name": "Sir. Ahmed",
+    "subject": "Unknown",
+    "category": "Department Faculty",
+    "respectLevel": "Mid"
   }
 ]
