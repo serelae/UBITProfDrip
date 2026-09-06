@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dr. Muhammad Ayaz",
+    "subject": "Linear Algebra",
+    "category": "Visiting Faculty",
+    "respectLevel": "Mid"
+  },
+  {
+    "name": "Dr. Alan Turing",
+    "subject": "Discrete Math & Cryptography",
+    "category": "Department Faculty",
+    "respectLevel": "High"
+  },
+  {
+    "name": "Prof. Ada Lovelace",
+    "subject": "Analytical Engines & Algorithms",
+    "category": "Department Faculty",
+    "respectLevel": "High"
+  },
+  {
+    "name": "Dr. Claude Shannon",
+    "subject": "Information Theory & Digital Logic",
+    "category": "Visiting Faculty",
+    "respectLevel": "Mid"
+  },
+  {
+    "name": "Grace Hopper",
+    "subject": "Compilers & Systems Architecture",
+    "category": "Department Faculty",
+    "respectLevel": "High"
+  },
+  {
+    "name": "Mr. Badar Sami",
+    "subject": "Computer Networks & Operating Systems",
+    "category": "Department Faculty",
+    "respectLevel": "High"
+  }
+]
