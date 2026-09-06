@@ -1,0 +1,18 @@
+{
+  "dripScore": 5.8,
+  "vibeCategory": "Pastoral Scholar Minimalist",
+  "verdict": "A pale mint ensemble that radiates serene authority during early morning lectures.",
+  "detailedQuote": "The crisp pastel green tunic delivers effortless breathability for surviving endless whiteboard sessions without breaking a sweat. Combined with a subtle grey cap, it is the classic dress code for a professor who prefers straightforward syllabus policies.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Pale Mint Green Kurta Tunic",
+      "description": "A light green traditional tunic featuring a clean buttoned placket built for standard academic composure."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Grey Knitted Taqiyah Cap",
+      "description": "An understated grey knitted cap completing the minimal, focused classroom aesthetic."
+    }
+  ]
+}
