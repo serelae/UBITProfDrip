@@ -28,5 +28,11 @@
     "subject": "Object Oriented Programming",
     "category": "Department Faculty",
     "respectLevel": "Mid"
+  },
+  {
+    "name": "Mufti Adnan",
+    "subject": "Fehm-e-Quran",
+    "category": "Visiting Faculty",
+    "respectLevel": "Mid"
   }
 ]
