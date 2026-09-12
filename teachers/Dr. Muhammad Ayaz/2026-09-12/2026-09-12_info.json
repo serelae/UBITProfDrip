@@ -1,0 +1,28 @@
+{
+  "dripScore": 5.2,
+  "vibeCategory": "Tech Support Minimalist",
+  "verdict": "Dr. Ayaz pairs a Silicon Valley uniform with alien foam footwear while waiting for the projector driver to fix itself.",
+  "detailedQuote": "The simple black t-shirt and dark denim say 'I posted the syllabus late,' but those chunky futuristic foam runners prove he's living in 2085. It's an understated look that relies entirely on avant-garde footwear to carry the entire lecture's aesthetic.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Black Fitted Crewneck Tee",
+      "description": "Standard issue black short-sleeve shirt tailored for lecture pacing."
+    },
+    {
+      "tag": "BOTTOM",
+      "name": "Dark Grey Slim Denim Jeans",
+      "description": "Faded grey jeans offering utility and effortless office-hour comfort."
+    },
+    {
+      "tag": "SHOES",
+      "name": "Cream Futuristic Foam Runners",
+      "description": "Sculpted avant-garde foam sneakers bringing unexpected hypebeast energy to computer science."
+    },
+    {
+      "tag": "GEAR",
+      "name": "Grey Sleek Laptop",
+      "description": "Essential teaching prop held firmly while navigating connection failures."
+    }
+  ]
+}
