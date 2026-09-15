@@ -1,0 +1,18 @@
+{
+  "dripScore": 8.5,
+  "vibeCategory": "Senior Faculty Sophistication",
+  "verdict": "Mr. Badar Sami exemplifies classic academic elegance with a perfectly tailored dress shirt and timeless eyewear.",
+  "detailedQuote": "The sharp light blue button-down offers a crisp, focused look that commands respect during complex programming lectures. Paired with minimalist black-framed spectacles, this attire represents the pinnacle of seasoned computer science authority.",
+  "inventory": [
+    {
+      "tag": "TOP",
+      "name": "Light Blue Long-Sleeve Button-Down Shirt",
+      "description": "A well-fitted light blue dress shirt featuring a classic collar and long sleeves tucked for a clean lecture presentation."
+    },
+    {
+      "tag": "ACCESSORY",
+      "name": "Black Framed Rectangular Glasses",
+      "description": "Professional black-rimmed eyeglasses that add a sharp, distinguished touch to his scholarly appearance."
+    }
+  ]
+}
